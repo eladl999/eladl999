@@ -1,6 +1,4 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="center">
   Welcome to Abdallah El Adl's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -9,6 +7,10 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;BI%20Specialist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI4Zjg5MzA2ODRhZWVlMzEwMzVjNmYzMmI2NzBiZGU0NjViOTZhMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" alt="Coder GIF" width="800" height="400">
 </p> 
 
 - 🏢 I'm a Data Analyst | Self - learner | BI Specialist (Entry-Level) | Interested in business & investing 📈
