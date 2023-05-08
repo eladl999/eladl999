@@ -20,5 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdallah-el-adl/" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20El%20Adl-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/eladl999" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20El%20Adl-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdallah-el-adl/)](https://www.linkedin.com/in/abdallah-el-adl/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdallah.eladl98@gmail.com)](mailto:abdallah.eladl98@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=01033605464)
+[![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/eladl999)
