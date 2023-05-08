@@ -22,4 +22,3 @@
 
 <a href="https://www.linkedin.com/in/abdallah-el-adl/" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20El%20Adl-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/eladl999" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20El%20Adl-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="abdallah.eladl98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdallah%20El%20Adl-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
